@@ -13,3 +13,4 @@ I chose to use a classic web browser (with graphical interface) because I need t
 Install java and the apache tomcat server on your system, place the whois.war file in the webapps folder located in the tomcat installation folder (../tomcat/webapps), start the tomcat server and then with the link
 localhost:your_port_number/whois/q?ipOrDomainName=your_ip_number.
 You will have appros information of the IP or the domain name, the scrap program the whois site to have this information
+##note## the stability of your program depends on the website you scrap
